@@ -3,6 +3,9 @@ No BS - Apps and software index
 
 - PC [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - Screen recording, streaming, and even more thanks to plugins (like Virtual camera). GPL 2 License
 - WIN/LINUX [Ventoy/Ventoy](https://github.com/ventoy/Ventoy) - Create multi-bootable USB. Any architecture (BIOS, IA32/x86_64/ARM64/MIPS UEFI), persistence support, MBR and GPT partition style, just drop in .iso or .vhd, theming and plugin capability. GPL 3 License
+- LINUX [GabMus/whatip](https://gitlab.gnome.org/GabMus/whatip) - Know your external internet IP, modem internal (WAN) IP, Wifi/Ethernet IP, used ports, Other LAN IP's.
+- LINUX [Thumbdrives](https://git.sr.ht/~martijnbraam/thumbdrives) [Sys-admin tools](https://bitbucket.org/hackersgame/iso_tools/src/master/) Boot ISO images, emulate keyboard by using your Linux Phone
+- WIN/LINUX [aria2](https://github.com/aria2/aria2) - Kinda like Wget/CURL but more universal. For Downloading files on HTTP(S), FTP, SFTP, BitTorrent, Metalink protocol only. It's not for cloning-mirroring sites (like `wget -m`) or posting stuff using `curl -X`
 - Android [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Android remote control using ADB, bypasses anti-screenshot privacy feature (to have audio use [rom1v/sndcpy](https://github.com/rom1v/sndcpy)) Apache 2.0 for scrcpy, MIT for sndcpy
 - Android [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) - Screen recorder over HTTP MJPEG with near/little to no delay screen recorder. MIT License
 - Android [NitishGadangi/Privacy-Indicator-App](https://github.com/NitishGadangi/Privacy-Indicator-App) - service based, microphone and camera in use indicator. MIT License
