@@ -1,21 +1,33 @@
 # nobs-apps
 No BS - Apps and software index
 
-- PC [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - Screen recording, streaming, and even more thanks to plugins (like Virtual camera)
-- Android [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) -  HTTP MJPEG near/little to no delay screen recorder based streaming. MIT License
+- PC [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - Screen recording, streaming, and even more thanks to plugins (like Virtual camera). GPL 2 License
+- WIN/LINUX [Ventoy/Ventoy](https://github.com/ventoy/Ventoy) - Create multi-bootable USB. Any architecture (BIOS, IA32/x86_64/ARM64/MIPS UEFI), persistence support, MBR and GPT partition style, just drop in .iso or .vhd, theming and plugin capability. GPL 3 License
+- Android [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Android remote control using ADB, bypasses anti-screenshot privacy feature (to have audio use [rom1v/sndcpy](https://github.com/rom1v/sndcpy)) Apache 2.0 for scrcpy, MIT for sndcpy
+- Android [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) - Screen recorder over HTTP MJPEG with near/little to no delay screen recorder. MIT License
 - Android [NitishGadangi/Privacy-Indicator-App](https://github.com/NitishGadangi/Privacy-Indicator-App) - service based, microphone and camera in use indicator. MIT License
-- Android [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - Alternative no login required to sub/playlist YouTube client
-- Android [AuroraOSS/AuroraStore](https://gitlab.com/AuroraOSS/AuroraStore) - Alternative no login required to download Google Play client (GitLab.com repo)
+- Android [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - Alternative no login required to sub/playlist YouTube client. GPL 3 License
+- Android [AuroraOSS/AuroraStore](https://gitlab.com/AuroraOSS/AuroraStore) - Alternative no login required to download Google Play client (GitLab.com repo). GPL 3 License
+- Android [F-droid](https://gitlab.com/fdroid) - Linux-like package manager and repository for free apps, but it's for android.
+- Android [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - Become owner of your phone, by rooting it with Magisk
 
-# Suggested
-- https://github.com/aviaryan/awesome-no-login-web-apps
+- Python CLI [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Swiss knife (All in one), python based video/audio grabber for various fair enough sites.
+
+# Web tools
 - DEV/RESEARCH/SECURITY https://www.virustotal.com/gui/
 - DEV/RESEARCH/SECURITY https://ipinfo.io
 - DEV/RESEARCH/SECURITY https://securitytrails.com/
-- PC/CLI/TERMUX [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Swiss knife (All in one), python based video/audio grabber for various fair enough sites.
+- WEB/SERVER [gchq/cyberchef](https://github.com/gchq/cyberchef) - Dev tool
+- WEB/SERVER [iv-org/invidious](https://github.com/iv-org/invidious) - Better and faster YouTube surfing
+- DNS Adblock & Local DNS GUI [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - Local DNS, and blacklised website blocker.
+
+# AI Tools
 - PC CUDA GPU [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Upscale
 - PC CUDA GPU [deezer/spleeter](https://github.com/deezer/spleeter) - Audio extraction (voice, drums, bass, etc)
 - PC CUDA GPU [baowenbo/DAIN](https://github.com/baowenbo/DAIN) - FPS Booster (smoother animations, eg. 30 fps to 60 fps) for animation purposes (https://youtu.be/q2i6FXVjNT0)
-- WEB/SERVER [gchq/cyberchef](https://github.com/gchq/cyberchef) - Dev tool
-- WEB/SERVER [iv-org/invidious](https://github.com/iv-org/invidious) - Better and faster YouTube surfing
-- Lucky Patcher, Jasi Patcher for getting rid of ads, greedy iap, and others (like root detection, enabling hidden features/devmode)
+
+# Suggested
+- https://github.com/aviaryan/awesome-no-login-web-apps
+
+# Other
+- Android Lucky Patcher, Jasi Patcher - Patch apk to remove ads, shady iap, and others (like root detection, enabling hidden features/devmode)
